@@ -1,8 +1,8 @@
 vendor/
 .env
-storage/
-bootstrap/cache/
+
+
 node_modules/
-public/storage
+
 .DS_Store
 *.loggit

@@ -1,0 +1,1 @@
+<?php /**PATH /home/anis/Bureau/product-management/resources/views/vendor/filament/components/global-search/end.blade.php ENDPATH**/ ?>

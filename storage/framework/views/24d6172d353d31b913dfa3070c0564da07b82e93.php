@@ -1,0 +1,1 @@
+<?php /**PATH /home/anis/Bureau/product-management/resources/views/vendor/filament/components/layouts/app/sidebar/start.blade.php ENDPATH**/ ?>
